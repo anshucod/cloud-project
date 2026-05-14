@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python/Virtual Envs
+.venv/
+__pycache__/
+
+# Scratch/Temp files
+scratch/
+tmp/
+server/tmp/
+server/uploads/
+
+# External / Infra
+infra/
+
+# Build outputs
+client/dist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
